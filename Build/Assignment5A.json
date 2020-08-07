@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Assignment5_PartA",
+"productVersion": "0.1",
+"dataUrl": "Assignment5A.data.unityweb",
+"wasmCodeUrl": "Assignment5A.wasm.code.unityweb",
+"wasmFrameworkUrl": "Assignment5A.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Assignment5A.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.12f1"
+}
